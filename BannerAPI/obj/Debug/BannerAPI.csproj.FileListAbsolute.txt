@@ -1,0 +1,152 @@
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\ApplicationInsights.config
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\csc.exe
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\csc.exe.config
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\csc.rsp
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\csi.exe
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\csi.rsp
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\System.AppContext.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\System.IO.FileSystem.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\vbc.exe
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\vbc.exe.config
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\vbc.rsp
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\BannerAPI.dll.config
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\BannerAPI.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\BannerAPI.pdb
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Antlr3.Runtime.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\HtmlAgilityPack.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.Web.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Newtonsoft.Json.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Net.Http.Formatting.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Helpers.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Http.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Http.WebHost.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Mvc.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Optimization.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Razor.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.WebPages.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\WebGrease.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\HtmlAgilityPack.pdb
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\HtmlAgilityPack.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Newtonsoft.Json.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Net.Http.Formatting.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Helpers.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Http.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Http.WebHost.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Mvc.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Optimization.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.Razor.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.WebPages.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Antlr3.Runtime.pdb
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\bin\Microsoft.AI.Web.xml
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\obj\Debug\BannerAPI.csprojResolveAssemblyReference.cache
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\obj\Debug\BannerAPI.dll
+c:\users\johan\documents\visual studio 2017\Projects\BannerAPI\BannerAPI\obj\Debug\BannerAPI.pdb
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\ApplicationInsights.config
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\csc.exe
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\csc.exe.config
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\csc.rsp
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\csi.exe
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\csi.rsp
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\vbc.exe
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\vbc.exe.config
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\vbc.rsp
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\BannerAPI.dll.config
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\BannerAPI.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\BannerAPI.pdb
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Antlr3.Runtime.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\HtmlAgilityPack.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Newtonsoft.Json.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Helpers.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Http.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Mvc.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Optimization.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Razor.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.WebPages.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\WebGrease.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\HtmlAgilityPack.pdb
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\HtmlAgilityPack.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Newtonsoft.Json.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Helpers.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Http.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Mvc.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Optimization.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.Razor.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.WebPages.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\obj\Debug\BannerAPI.csprojResolveAssemblyReference.cache
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\obj\Debug\BannerAPI.dll
+C:\Users\Johan\Desktop\banner api\banner-api-master\BannerAPI\obj\Debug\BannerAPI.pdb
